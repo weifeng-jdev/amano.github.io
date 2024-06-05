@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://weifeng-jdev.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://weifeng-jdev.github.io/atom.xml" rel="self"/>
   
-  <link href="https://weifeng-jdev.github.io/blog/"/>
+  <link href="https://weifeng-jdev.github.io/"/>
   <updated>2024-06-05T08:58:17.113Z</updated>
-  <id>https://weifeng-jdev.github.io/blog/</id>
+  <id>https://weifeng-jdev.github.io/</id>
   
   <author>
     <name>Amano</name>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>hexo+github pages博客快速建站攻略</title>
-    <link href="https://weifeng-jdev.github.io/blog/2024/06/05/hexo-github-pages%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%99%E6%94%BB%E7%95%A5/"/>
-    <id>https://weifeng-jdev.github.io/blog/2024/06/05/hexo-github-pages%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%99%E6%94%BB%E7%95%A5/</id>
+    <link href="https://weifeng-jdev.github.io/2024/06/05/hexo-github-pages%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%99%E6%94%BB%E7%95%A5/"/>
+    <id>https://weifeng-jdev.github.io/2024/06/05/hexo-github-pages%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%99%E6%94%BB%E7%95%A5/</id>
     <published>2024-06-05T08:58:05.000Z</published>
     <updated>2024-06-05T08:58:17.113Z</updated>
     
     
     
     
-    <category term="建站" scheme="https://weifeng-jdev.github.io/blog/categories/%E5%BB%BA%E7%AB%99/"/>
+    <category term="建站" scheme="https://weifeng-jdev.github.io/categories/%E5%BB%BA%E7%AB%99/"/>
     
     
-    <category term="博客建立" scheme="https://weifeng-jdev.github.io/blog/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B/"/>
+    <category term="博客建立" scheme="https://weifeng-jdev.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B/"/>
     
   </entry>
   
